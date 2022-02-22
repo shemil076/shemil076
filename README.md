@@ -8,7 +8,7 @@
 </p>
 
 <h1 align = "center">
-        <img src="https://media.giphy.com/media/l41K1gfrUz1HDohvG/giphy.gif" width="100">
+        <img src="https://media.giphy.com/media/xT9IgBs921QcFeC0ms/giphy.gif" width="100">
 </h1>
 
 <!--
