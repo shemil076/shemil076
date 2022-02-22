@@ -30,7 +30,7 @@
         <br>
         🛠️ Gadgets I prefer ⚙️
 </h1>
-<h3>
+<h3 align = "center">
        👩‍💻programming language
 </h3>
 <p align = "center">
@@ -45,7 +45,7 @@
         <img alt="DART" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
         
 </p>
-<h3>
+<h3 align = "center">
        🚀 Frameworks
 </h3>
 <p align = "center">
@@ -58,7 +58,7 @@
         <img alt="ANACONDA" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
 </p>
 
-<h3>
+<h3 align = "center">
        👩‍💻 Software and tools
 </h3>
 <p align = "center">
@@ -80,7 +80,7 @@
         
 </p>
 
-<h3>
+<h3 align = "center">
        💻 OS 
 </h3>
 <p align = "center">
@@ -89,7 +89,7 @@
         <img alt="WINDOWS XP" src = "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
 </p>
 
-<h3>
+<h3 align = "center">
        💻 Terminal  
 </h3>
 <p align = "center">
@@ -98,21 +98,21 @@
         <img alt="POWERSHELL" src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </p>
 
-<h3>
+<h3 align = "center">
        ⚡ Database
 </h3>
 <p align = "center">
         <img alt="MYSQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h3>
+<h3 align = "center">
        ⚙️ ORM
 </h3>
 <p align = "center">
         <img alt="HIBERNATE" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </p>
 
-<h3>
+<h3 align = "center">
        🤖 Artificial Intelligence
 </h3>
 <p align = "center">
