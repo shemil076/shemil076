@@ -23,7 +23,7 @@
 <h3>
         <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
         <br>
-        Gadgets I prefer ⚙️
+        🛠️ Gadgets I prefer ⚙️
 </h3>
 
 
