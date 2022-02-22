@@ -7,6 +7,12 @@
         <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4999&center=true&width=750&height=80&lines=Welcome+to+Pramuditha's+GitHub+profile;Still+an+undergraduate+%F0%9F%98%82;Love+%E2%9D%A4%EF%B8%8F+to+try+new+things;Talking+with+computers+%F0%9F%92%BB+makes+me+pleasure.">
 </p>
 
+<h3 align = "center">
+        📉 MY GITHUB STATS 🤖    
+</h3>
+<p align = "center">
+        <img src = "https://github-readme-stats.vercel.app/api?username=shemil076&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia">
+</p>
 
 <!--
 **shemil076/shemil076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
