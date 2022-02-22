@@ -33,7 +33,7 @@
 <h3>
        👩‍💻programming language
 </h3>
-<p>
+<p align = "center">
         <img alt="JAVA" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
         <img alt="PYTHON" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
         <img alt="DART" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
@@ -48,7 +48,7 @@
 <h3>
        🚀 Frameworks
 </h3>
-<p>
+<p align = "center">
         <img alt="SPRING" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
         <img alt="FLUTTER" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -61,7 +61,7 @@
 <h3>
        👩‍💻 Software and tools
 </h3>
-<p>
+<p align = "center">
         <img alt="ANDROID STUDIO" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
         <img alt="INTELLIJ" src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
         <img alt="VISUAL STUDIO CODE" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -83,7 +83,7 @@
 <h3>
        💻 OS 
 </h3>
-<p>
+<p align = "center">
         <img alt="ANDROID" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
         <img alt="WINDOWS" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         <img alt="WINDOWS XP" src = "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
@@ -92,7 +92,7 @@
 <h3>
        💻 Terminal  
 </h3>
-<p>
+<p align = "center">
         <img alt="WINDOWS TERMINAL" src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
         <img alt="GIT" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         <img alt="POWERSHELL" src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
@@ -101,21 +101,21 @@
 <h3>
        ⚡ Database
 </h3>
-<p>
+<p align = "center">
         <img alt="MYSQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <h3>
        ⚙️ ORM
 </h3>
-<p>
+<p align = "center">
         <img alt="HIBERNATE" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </p>
 
 <h3>
        🤖 Artificial Intelligence
 </h3>
-<p>
+<p align = "center">
         <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
