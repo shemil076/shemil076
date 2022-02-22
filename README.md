@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align = "center">
-        <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4999&center=true&width=785&height=80&lines=Welcome+to+Pramuditha's+GitHub+profile;Still+an+undergraduate+%F0%9F%98%82;Love+%E2%9D%A4%EF%B8%8F+to+try+new+things;Talking+with+computers+%F0%9F%92%BB+makes+me+pleasure.">
+        <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4999&center=true&width=800&height=80&lines=Welcome+to+Pramuditha's+GitHub+profile;Still+an+undergraduate+%F0%9F%98%82;Love+%E2%9D%A4%EF%B8%8F+to+try+new+things;Talking+with+computers+%F0%9F%92%BB+makes+me+pleasure.">
 </h1>
 
         
