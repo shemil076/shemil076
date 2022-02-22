@@ -12,8 +12,8 @@
         📉 MY GITHUB STATS 🤖    
 </h3>
 <p align = "center">
-        <img src = "https://github-readme-stats.vercel.app/api?username=shemil076&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia">
-        <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shemil076&theme=ALOLIA"> 
+        <img src = "https://github-readme-stats.vercel.app/api?username=shemil076&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia">  
+        <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shemil076&theme=algolia"> 
 </p>
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shemil076&theme=algolia">
@@ -46,9 +46,45 @@
 <p>
         <img alt="SPRING" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+        <img alt="FLUTTER" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
         <img alt="NODE JS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
         <img alt="REACT" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
+        <img alt="ANACONDA" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+</p>
+
+<br>
+<h3>
+       👩‍💻 IDE
+</h3>
+<p>
+        <img alt="ANDROID STUDIO" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+        <img alt="INTELLIJ" src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+        <img alt="VISUAL STUDIO CODE" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        <img alt="NOTEPAD++" src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+        <img alt="COLAB" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+        <img alt="VISUAL STUDIO " src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+        
+</p>
+
+<br>
+<h3>
+       💻 OS 
+</h3>
+<p>
+        <img alt="ANDROID" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+        <img alt="WINDOWS" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img alt="WINDOWS XP" src = "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
+</p>
+
+<br>
+<h3>
+       💻 Terminal  
+</h3>
+<p>
+        <img alt="WINDOWS TERMINAL" src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+        <img alt="GIT" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+        <img alt="POWERSHELL" src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </p>
 
 <br>
@@ -57,12 +93,23 @@
 </h3>
 <p>
         <img alt="MYSQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-        <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-        <img alt="NODE JS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-        <img alt="REACT" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
 </p>
 
+<br>
+<h3>
+       ⚙️ ORM
+</h3>
+<p>
+        <img alt="HIBERNATE" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+</p>
+
+<br>
+<h3>
+       🤖 Artificial Intelligence
+</h3>
+<p>
+        <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
 
 
 
