@@ -127,15 +127,20 @@
 </h3>
 <p align = "center">
         <!--    linkedin      -->
-        <image src = "https://user-images.githubusercontent.com/85215233/155083915-f9a8dd45-6d11-464b-ab0f-d5f06d58ba9a.png"  width= "30" padding = "10">  
+        <image src = "https://user-images.githubusercontent.com/85215233/155083915-f9a8dd45-6d11-464b-ab0f-d5f06d58ba9a.png"  width= "30">  
+         &#8287;&#8287;
          <!-- twitter -->
-        <image src = "https://user-images.githubusercontent.com/85215233/155083913-60e22be0-1cc0-44bd-9393-91957747defa.png"  width= "30" >  
+        <image src = "https://user-images.githubusercontent.com/85215233/155083913-60e22be0-1cc0-44bd-9393-91957747defa.png"  width= "30" >
+         &#8287;&#8287;
          <!-- instagram -->
-        <image src = "https://user-images.githubusercontent.com/85215233/155083910-50d843b4-f407-4e64-8d93-66e243d4c76b.png"  width= "30">    
+        <image src = "https://user-images.githubusercontent.com/85215233/155083910-50d843b4-f407-4e64-8d93-66e243d4c76b.png"  width= "30">
+         &#8287;&#8287;
          <!-- facebook -->
-        <image src = "https://user-images.githubusercontent.com/85215233/155083907-734247d9-1177-43ac-b03f-3e10b433dacb.png"  width= "30">  
+        <image src = "https://user-images.githubusercontent.com/85215233/155083907-734247d9-1177-43ac-b03f-3e10b433dacb.png"  width= "30">
+         &#8287;&#8287;
          <!-- gmail -->
-        <image src = "https://user-images.githubusercontent.com/85215233/155083866-21fddaea-980c-48a5-a40d-45914700949b.png"  width= "30">   
+        <image src = "https://user-images.githubusercontent.com/85215233/155083866-21fddaea-980c-48a5-a40d-45914700949b.png"  width= "30">
+        &#8287;&#8287;
                 
 <!--         ![facebook](https://user-images.githubusercontent.com/85215233/155083907-734247d9-1177-43ac-b03f-3e10b433dacb.png) -->
 <!--         ![instagram](https://user-images.githubusercontent.com/85215233/155083910-50d843b4-f407-4e64-8d93-66e243d4c76b.png) -->
