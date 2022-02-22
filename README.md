@@ -17,13 +17,13 @@
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shemil076&theme=algolia">
 </p>
-<hr>
-<h3>
+<h1></h1>
+<h1>
         <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
         <br>
         🛠️ Gadgets I prefer ⚙️
-</h3>
-<h1></h1>
+</h1>
+
 
 <!--
 **shemil076/shemil076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
