@@ -23,9 +23,9 @@
         <br>
         🛠️ Gadgets I prefer ⚙️
 </h1>
-<h2>
+<h3>
         💻programming language
-</h2>
+</h3>
 <p>
         <img alt="JAVA" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
         <img alt="PYTHON" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
