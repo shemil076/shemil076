@@ -149,9 +149,6 @@
 
 
 </p>
-<p>
-        <img src = "https://dayspedia.com/time/online">
-</p>             
 
       
 
