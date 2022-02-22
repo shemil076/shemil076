@@ -3,6 +3,10 @@
         <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="100">
 </h1>
 
+<p align = "center">
+        <img src = "[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&duration=4999&width=525&height=100&lines=Welcome+to+Pramuditha's+GitHub+profile;Still+an+undergraduate+%F0%9F%98%82;Love+%E2%9D%A4%EF%B8%8F+to+try+new+things;Talking+with+computers+%F0%9F%92%BB+makes+me+pleasure.)](https://git.io/typing-svg)">
+</p
+
 
 <!--
 **shemil076/shemil076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
