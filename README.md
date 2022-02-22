@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://giphy.com/stickers/trending/headspace" width="35">
 <!--
 **shemil076/shemil076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
