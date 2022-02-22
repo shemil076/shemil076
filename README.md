@@ -21,7 +21,8 @@
 </div>
 
 <h3>
-        🛠️ Gadgets I prefer ⚙️
+        <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="80"> 
+        Gadgets I prefer ⚙️
 </h3>
 
 
