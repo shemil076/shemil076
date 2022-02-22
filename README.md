@@ -59,7 +59,7 @@
 </p>
 
 <h3>
-       👩‍💻 IDE
+       👩‍💻 Software and tools
 </h3>
 <p>
         <img alt="ANDROID STUDIO" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
@@ -67,7 +67,16 @@
         <img alt="VISUAL STUDIO CODE" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
         <img alt="NOTEPAD++" src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
         <img alt="COLAB" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+        <img alt="ECLIPSE" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+        <img alt="PYCHARM" src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+        <img alt="REPLIT" src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+        <img alt="RSTUDIO" src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
         <img alt="VISUAL STUDIO " src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+        <img alt="GOOGLE CHROME" src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+        <img alt="MICROSOFT EDGE" src = "https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
+        <img alt="OPERA" src = "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
+        <img alt="ILLUSTRATOR" src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+        <img alt="PHOTOSHOP" src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
         
 </p>
 
