@@ -20,6 +20,11 @@
 </p>
 </div>
 
+<h3>
+        🛠️ Gadgets I prefer ⚙️
+</h3>
+
+
 <!--
 **shemil076/shemil076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
