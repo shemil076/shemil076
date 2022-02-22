@@ -35,6 +35,7 @@
         <img alt="JAVASCRIPT" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
         <img alt="KOTLIN" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
         <img alt="PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+        <img alt="DART" src = "hhttps://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
         
 </p>
 
