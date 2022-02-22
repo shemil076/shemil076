@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align = "center">
-        Hi there 👋 
+        Hi there 
         <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50">
 </h1>
 
