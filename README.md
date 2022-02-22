@@ -127,9 +127,9 @@
 </h3>
 <p align = "center">
         <!--    linkedin      -->
-        <image src = "https://user-images.githubusercontent.com/85215233/155083915-f9a8dd45-6d11-464b-ab0f-d5f06d58ba9a.png"  width= "30">  
+        <image src = "https://user-images.githubusercontent.com/85215233/155083915-f9a8dd45-6d11-464b-ab0f-d5f06d58ba9a.png"  width= "30" padding = "10">  
          <!-- twitter -->
-        <image src = "https://user-images.githubusercontent.com/85215233/155083913-60e22be0-1cc0-44bd-9393-91957747defa.png"  width= "30">  
+        <image src = "https://user-images.githubusercontent.com/85215233/155083913-60e22be0-1cc0-44bd-9393-91957747defa.png"  width= "30" >  
          <!-- instagram -->
         <image src = "https://user-images.githubusercontent.com/85215233/155083910-50d843b4-f407-4e64-8d93-66e243d4c76b.png"  width= "30">    
          <!-- facebook -->
