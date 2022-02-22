@@ -24,6 +24,9 @@
 </p>
 
 
+<p align = "center">
+        <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shemil076&theme=github_dark"> 
+</p>
 
 <h1></h1>
 <h1 align = "center">
