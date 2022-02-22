@@ -3,10 +3,10 @@
         <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="80">
 </h1>
 
-<p align = "center">
+<h1 align = "center">
         <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4999&center=true&width=750&height=80&lines=Welcome+to+Pramuditha's+GitHub+profile;Still+an+undergraduate+%F0%9F%98%82;Love+%E2%9D%A4%EF%B8%8F+to+try+new+things;Talking+with+computers+%F0%9F%92%BB+makes+me+pleasure.">
-</p>
-##
+</h1>
+
 <h3 align = "center">
         📉 MY GITHUB STATS 🤖    
 </h3>
