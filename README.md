@@ -118,7 +118,13 @@
 <p align = "center">
         <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
+<h1></h1>
 
+<h1 align = "center">
+        <img src="https://media.giphy.com/media/9tXsPh8IcW68X23udg/giphy.gif" width="90">
+        <br>
+        👨 Catch me on 📱
+</h1>
 
 
 <!--
