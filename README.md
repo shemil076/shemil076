@@ -13,6 +13,7 @@
 </h3>
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api?username=shemil076&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia">
+        <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shemil076&theme=ALOLIA"> 
 </p>
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shemil076&theme=algolia">
@@ -38,12 +39,24 @@
         <img alt="DART" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
         
 </p>
-<br><br>
+<br>
 <h3>
        🚀 Frameworks
 </h3>
 <p>
         <img alt="SPRING" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+        <img alt="NODE JS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+        <img alt="REACT" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
+</p>
+
+<br>
+<h3>
+       ⚡ Database
+</h3>
+<p>
+        <img alt="MYSQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
         <img alt="NODE JS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
