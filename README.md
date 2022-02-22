@@ -127,7 +127,7 @@
 </h3>
 <p align = "center">
         <!--    linkedin      -->
-        <a href="www.linkedin.com/in/pramudithakarunarathna" target="_blank"><image src = "https://user-images.githubusercontent.com/85215233/155083915-f9a8dd45-6d11-464b-ab0f-d5f06d58ba9a.png"  width= "30"> </a> 
+        <a href="https://www.linkedin.com/in/pramuditha-karunarathna-620672207" target="_blank"><image src = "https://user-images.githubusercontent.com/85215233/155083915-f9a8dd45-6d11-464b-ab0f-d5f06d58ba9a.png"  width= "30"> </a> 
          &#8287;&#8287;
          <!-- twitter -->
         <a href="https://twitter.com/settings/account" target="_blank"><image src = "https://user-images.githubusercontent.com/85215233/155083913-60e22be0-1cc0-44bd-9393-91957747defa.png"  width= "30" ></a>
