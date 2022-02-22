@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 <h1 align = "center">
-        This is Pramuditha's GitHub profile 
-        <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50">
+        <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="100">
 </h1>
+
 
 <!--
 **shemil076/shemil076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
