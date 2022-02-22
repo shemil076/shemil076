@@ -23,9 +23,7 @@
         <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shemil076&theme=algolia"> 
 </p>
 
-<p align = "center">
-        <img src = "https://skyline.github.com/shemil076/2021"> 
-</p>
+
 
 <h1></h1>
 <h1 align = "center">
