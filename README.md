@@ -7,7 +7,6 @@
         <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4999&center=true&width=750&height=80&lines=Welcome+to+Pramuditha's+GitHub+profile;Still+an+undergraduate+%F0%9F%98%82;Love+%E2%9D%A4%EF%B8%8F+to+try+new+things;Talking+with+computers+%F0%9F%92%BB+makes+me+pleasure.">
 </h1>
 
-<div>
         
 <h3 align = "center">
         📉 MY GITHUB STATS 🤖    
@@ -18,8 +17,7 @@
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shemil076&theme=algolia">
 </p>
-</div>
-
+<hr>
 <h3>
         <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
         <br>
