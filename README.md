@@ -13,11 +13,17 @@
 </h3>
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api?username=shemil076&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia">  
-        <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shemil076&theme=algolia"> 
+        
 </p>
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shemil076&theme=algolia">
 </p>
+
+<p align = "center">
+        <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shemil076&theme=algolia"> 
+</p>
+
+
 <h1></h1>
 <h1>
         <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
@@ -39,7 +45,6 @@
         <img alt="DART" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
         
 </p>
-<br>
 <h3>
        🚀 Frameworks
 </h3>
@@ -53,7 +58,6 @@
         <img alt="ANACONDA" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
 </p>
 
-<br>
 <h3>
        👩‍💻 IDE
 </h3>
@@ -67,7 +71,6 @@
         
 </p>
 
-<br>
 <h3>
        💻 OS 
 </h3>
@@ -77,7 +80,6 @@
         <img alt="WINDOWS XP" src = "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
 </p>
 
-<br>
 <h3>
        💻 Terminal  
 </h3>
@@ -87,7 +89,6 @@
         <img alt="POWERSHELL" src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </p>
 
-<br>
 <h3>
        ⚡ Database
 </h3>
@@ -95,7 +96,6 @@
         <img alt="MYSQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<br>
 <h3>
        ⚙️ ORM
 </h3>
@@ -103,7 +103,6 @@
         <img alt="HIBERNATE" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </p>
 
-<br>
 <h3>
        🤖 Artificial Intelligence
 </h3>
