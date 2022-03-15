@@ -135,7 +135,7 @@
          &#8287;&#8287;
 <!--          <!-- twitter -->
 <!--         <a href="https://twitter.com/settings/account" target="_blank"><image src = "https://user-images.githubusercontent.com/85215233/155083913-60e22be0-1cc0-44bd-9393-91957747defa.png"  width= "30" ></a> -->
-<!--          &#8287;&#8287; --> -->
+<!--          &#8287;&#8287; -->
          <!-- instagram -->
        <a href="https://www.instagram.com/shemi.l" target="_blank"><image src = "https://user-images.githubusercontent.com/85215233/155083910-50d843b4-f407-4e64-8d93-66e243d4c76b.png"  width= "30"></a>
          &#8287;&#8287;
