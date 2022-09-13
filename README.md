@@ -134,7 +134,7 @@
         <img alt="ACER" src = "https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white">
         <img alt="MAC" src = "https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white">
         <img alt="HUAWEI" src = "https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white">
-        <img alt="Core_i5" src = "	https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+        <img alt="Core_i5" src = "https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
         
 </p>
 <h1></h1>
