@@ -43,6 +43,9 @@
         <img alt="KOTLIN" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
         <img alt="PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
         <img alt="DART" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+        <img alt="TYPESCRIPT" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img alt="JAVASCRIPT" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        
         
 </p>
 <h3 align = "center">
@@ -56,6 +59,7 @@
         <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
         <img alt="REACT" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
         <img alt="ANACONDA" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+        <img alt="GRAPHQL" src = "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 </p>
 
 <h3 align = "center">
