@@ -69,6 +69,7 @@
         <img alt="ANDROID STUDIO" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
         <img alt="INTELLIJ" src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
         <img alt="VISUAL STUDIO CODE" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        <img alt="REPLIT" src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
         <img alt="NOTEPAD++" src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
         <img alt="COLAB" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
         <img alt="ECLIPSE" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
@@ -101,6 +102,7 @@
         <img alt="WINDOWS TERMINAL" src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
         <img alt="GIT" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         <img alt="POWERSHELL" src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+        <img alt="ITERMS" src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
 </p>
 
 <h3 align = "center">
@@ -123,6 +125,17 @@
 </h3>
 <p align = "center">
         <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
+
+<h3 align = "center">
+       💻 Workspace Spec
+</h3>
+<p align = "center">
+        <img alt="ACER" src = "https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white">
+        <img alt="MAC" src = "https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white">
+        <img alt="HUAWEI" src = "https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white">
+        <img alt="Core_i5" src = "	https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+        
 </p>
 <h1></h1>
 
