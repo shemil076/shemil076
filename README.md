@@ -39,16 +39,7 @@
        👩‍💻programming language
 </h3>
 <p align = "center">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-        
-        <img alt="JAVA" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-        <img alt="PYTHON" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-        <img alt="KOTLIN" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-        <img alt="PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-        <img alt="DART" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-        <img alt="TYPESCRIPT" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img alt="JAVASCRIPT" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-        
+        <img src="https://skillicons.dev/icons?i=git,java,py,kotlin,php,dart,ts,js,swift" />
         
 </p>
 <h3 align = "center">
