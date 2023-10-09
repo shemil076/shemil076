@@ -39,23 +39,18 @@
        👩‍💻programming language
 </h3>
 <p align = "center">
-        <img src="https://skillicons.dev/icons?i=git,java,py,kotlin,php,dart,ts,js,swift" />
+        <img src="https://skillicons.dev/icons?i=java,py,kotlin,php,dart,ts,js,swift" />
         
 </p>
 <h3 align = "center">
        🚀 Frameworks
 </h3>
 <p align = "center">
-        <img alt="SPRING" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+         <img src="https://skillicons.dev/icons?i=react,graphql,nodejs,flutter,spring" />
         <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-        <img alt="FLUTTER" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-        <img alt="NODE JS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-        <img alt="REACT" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
         <img alt="ANACONDA" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
-        <img alt="GRAPHQL" src = "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-</p>
-
+        
 <h3 align = "center">
        👩‍💻 Software and tools
 </h3>
