@@ -37,7 +37,7 @@
         🛠️ Gadgets I prefer ⚙️
 </h1>
 <h3 align = "center">
-       👩‍💻programming language
+       👩‍💻programming languages
 </h3>
 <p align = "center">
         <img src="https://skillicons.dev/icons?i=java,py,kotlin,php,dart,ts,js,swift" />
