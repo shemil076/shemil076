@@ -10,8 +10,9 @@
 
         
 <h3 align = "center">
-        ## 📉 MY GITHUB STATS 🤖    
+          
 </h3>
+ ## 📉 MY GITHUB STATS 🤖 
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api?username=shemil076&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia">  
         
