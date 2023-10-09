@@ -10,9 +10,9 @@
 
         
 <h3 align = "center">
-          
+            📉 MY GITHUB STATS 🤖 
 </h3>
- ## 📉 MY GITHUB STATS 🤖 
+
 <p align = "center">
         <img src = "https://github-readme-stats.vercel.app/api?username=shemil076&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia">  
         
@@ -37,14 +37,14 @@
         🛠️ Gadgets I prefer ⚙️
 </h1>
 <h3 align = "center">
-      ## 👩‍💻programming language
+       👩‍💻programming language
 </h3>
 <p align = "center">
         <img src="https://skillicons.dev/icons?i=java,py,kotlin,php,dart,ts,js,swift" />
         
 </p>
 <h3 align = "center">
-      ## 🚀 Frameworks
+       🚀 Frameworks
 </h3>
 <p align = "center">
          <img src="https://skillicons.dev/icons?i=react,graphql,nodejs,flutter,spring" />
@@ -55,7 +55,7 @@
         <img alt="ANACONDA" src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
 </p>
 <h3 align = "center">
-     ##  👩‍💻 Software and tools
+ 👩‍💻 Software and tools
 </h3>
 <p align = "center">
         <img alt="ANDROID STUDIO" src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
