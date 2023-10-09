@@ -39,6 +39,8 @@
        👩‍💻programming language
 </h3>
 <p align = "center">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+        
         <img alt="JAVA" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
         <img alt="PYTHON" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
         <img alt="KOTLIN" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
