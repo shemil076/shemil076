@@ -39,14 +39,14 @@
        👩‍💻programming languages
 </h3>
 <p align = "center">
-        <img src="https://skillicons.dev/icons?i=java,py,kotlin,dart,ts,js,swift" />
+        <img src="https://skillicons.dev/icons?i=java,py,kotlin,dart,ts,js,swift,go" />
         
 </p>
 <h3 align = "center">
        🚀 Frameworks
 </h3>
 <p align = "center">
-         <img src="https://skillicons.dev/icons?i=react,graphql,nodejs,flutter,spring,go" />
+         <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,graphql,nodejs,flutter,spring" />
 </p>
 <p align = "center">
         <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
