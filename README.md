@@ -46,7 +46,7 @@
        🚀 Frameworks
 </h3>
 <p align = "center">
-         <img src="https://skillicons.dev/icons?i=react,graphql,nodejs,flutter,spring" />
+         <img src="https://skillicons.dev/icons?i=react,graphql,nodejs,flutter,spring,go" />
 </p>
 <p align = "center">
         <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
