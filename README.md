@@ -53,7 +53,7 @@ const me: Developer = {
   role: "Full Stack Developer",
   location: "Hill City 🌍",
   code: ["TypeScript", "JavaScript", "Swift", "Go", "Dart", "Java"],
-  architecture: ["Event-Driven", "Serverless", "MVVM"],
+  architecture: ["Monolithic", "MVVM", "Clean Architecture"],
   currentlyLearning: "Mobile & Web3 Technologies",
   askMeAbout: ["Web Dev", "Mobile" "Tech", "AI", "Coffee ☕"],
   challenge: "Building the future, one commit at a time"
