@@ -232,7 +232,7 @@ Nest.js backend.</p>
 <!-- Footer -->
 <div align="center">
 
-### 🌟 Show some ❤️ by starring repositories you find interesting!
+
 
 
 <!-- Wave footer -->
