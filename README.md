@@ -225,7 +225,6 @@ Nest.js backend.</p>
 </picture>
 
 </div> 
----
 
 
 
