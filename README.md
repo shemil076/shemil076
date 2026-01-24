@@ -185,13 +185,13 @@ Nest.js backend.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Loyalty Management Web Application</h3>
+      <h3 align="center">weartomize</h3>
       <div align="center">
-        <a href="https://github.com/shemil076/Go-backend" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemil076&repo=Go-backend&theme=radical&hide_border=true&bg_color=151515&title_color=FEFE5B&icon_color=F97C65&border_radius=10" />
+        <a href="https://github.com/shemil076/weartomize" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemil076&repo=weartomize&theme=radical&hide_border=true&bg_color=151515&title_color=FEFE5B&icon_color=F97C65&border_radius=10" />
         </a>
-        <p><strong>Tech Stack:</strong> Go, Gin</p>
-        <p>Integrated the external Square Loyalty API to manage customer rewards and points..</p>
+        <p><strong>Tech Stack:</strong> Flutter, Firebase</p>
+        <p>A mobile application that can customise t-shirts</p>
       </div>
     </td>
   </tr>
